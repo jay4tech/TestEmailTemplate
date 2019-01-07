@@ -22,7 +22,7 @@ Annotations:
 ## Quick start ##
 
 Download the code with git:
-git clone git://github.com/jay4tech/JavaConfigSpringTest.git
+git clone git://github.com/jay4tech/TestEmailTemplate.git
 
 Compile the code with maven:
 mvn clean install
